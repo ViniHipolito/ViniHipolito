@@ -7,7 +7,7 @@
 - 🎇 Espero que há um ótimo dia em quanto está lendo isso
 
 ![Hipolito's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihipolito&theme=prussian&show_icons=true)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&cover_image=false&theme=default&show_offline=true&background_color=28383e&interchange=true&bar_color=d1fcff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&cover_image=false&theme=default&show_offline=false&background_color=172f45&interchange=true&bar_color=a0cdf4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&redirect=true)
 
 <h3 align="left">Linguagems que programo:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
