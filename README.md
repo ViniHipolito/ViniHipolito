@@ -3,8 +3,9 @@
 
 - 🧐 Tenho 15 anos de idade
 - 👾 Gosto muito de **Jogar** e **Programar** jogos
-- 😺 Recentemente estou trabalhando em **Aventura do Gatinho Aventureiro**
-- 🎇 Espero que há um ótimo dia em quanto está lendo isso
+- 🎮 Meu gênero de jogo favorito é **Estrategia**, mas sou bem variado 😅
+- 😺 Recentemente estou trabalhando em meu projeto chamado **Aventura do Gatinho Aventureiro**
+- 🎇 Espero que tenha um ótimo dia em quanto estiver lendo isso
 
 ![Hipolito's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihipolito&theme=prussian&show_icons=true)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&cover_image=false&theme=default&show_offline=false&background_color=172f45&interchange=true&bar_color=a0cdf4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&redirect=true)
