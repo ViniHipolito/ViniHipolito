@@ -1,14 +1,9 @@
-<h1 align="center">Eae, aqui é Hipolito</h1>
-<h3 align="center">😎 Álias conhecido como Desu. Sou Programador tentativo na área da criatividade 🧠</h3>
+<h1 align="center">Eae, aqui é o Vinicius</h1>
+- Tenho 16 anos de idade
+- Gosto muito de **Jogar** e **Programar** jogos
+- Não tenho muito pra contar sobre mim
 
-- 🧐 Tenho 15 anos de idade
-- 👾 Gosto muito de **Jogar** e **Programar** jogos
-- 🎮 Meu gênero de jogo favorito é **Estrategia**, mas sou bem variado 😅
-- 😺 Recentemente estou trabalhando em meu projeto chamado **Aventura do Gatinho Aventureiro**
-- 🎇 Espero que tenha um ótimo dia em quanto estiver lendo isso
-
-![Hipolito's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihipolito&theme=prussian&show_icons=true)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&cover_image=false&theme=default&show_offline=false&background_color=172f45&interchange=true&bar_color=a0cdf4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgpty744qu5dhi7n7e6vsfoijq&redirect=true)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinihipolito&theme=prussian&show_icons=true)
 
 <h3 align="left">Linguagems que programo:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
